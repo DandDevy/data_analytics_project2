@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0801c19d-3345-425f-be1d-5e250aa2ec1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/r00168428.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/r00168428.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
